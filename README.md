@@ -2,28 +2,6 @@
 
 A web-based application for analyzing medical images and detecting genetic diseases. The system provides detailed analysis, visualizations, and medical recommendations for five genetic disorders.
 
-## Supported Diseases
-
-1. **Fabry Disease**
-   - Genetic disorder affecting multiple organs
-   - Caused by deficiency of alpha-galactosidase A enzyme
-
-2. **Cystic Fibrosis**
-   - Genetic disorder affecting lungs and other organs
-   - Related to CFTR gene mutations
-
-3. **Neurofibromatosis Type 1**
-   - Genetic disorder causing tumors on nerve tissue
-   - Associated with NF1 gene
-
-4. **Duchenne Muscular Dystrophy**
-   - Genetic disorder causing progressive muscle degeneration
-   - Related to DMD gene mutations
-
-5. **Marfan Syndrome**
-   - Genetic disorder affecting connective tissue
-   - Associated with FBN1 gene mutations
-
 ## Features
 
 - **Image Analysis**
